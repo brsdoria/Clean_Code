@@ -1402,11 +1402,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Desktop\\GITHUB\\CleanCode\\CleanCode.csproj",
+      "projectUniqueName": "C:\\GITHUB\\CleanCode\\CleanCode.csproj",
       "projectName": "CleanCode",
-      "projectPath": "C:\\Users\\User\\Desktop\\GITHUB\\CleanCode\\CleanCode.csproj",
+      "projectPath": "C:\\GITHUB\\CleanCode\\CleanCode.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Desktop\\GITHUB\\CleanCode\\obj\\",
+      "outputPath": "C:\\GITHUB\\CleanCode\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
