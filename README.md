@@ -40,7 +40,7 @@ NuGet\Install-Package Microsoft.EntityFrameworkCore -Version 2.2.6
 
 A estrutura do projeto segundo a imagem abaixo é composta da seguinte forma:
 
-![EstruturaDoProjeto](screenshots/Estrutura.png)
+![EstruturaDoProjeto](screenshots/estrutura.png)
 
 ## ⚠️ Atenção
 
