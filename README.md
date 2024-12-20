@@ -1,6 +1,6 @@
 # Clean Code
 
-teste
+Boas práticas na escrita de software que você pode aplicar para obter uma maior legibilidade e manutenabilidade do seu código.
 
 ## 🛠️ Construído com 
 
@@ -8,33 +8,25 @@ teste
 
 ## 📚 Principais Bibliotecas, Frameworks e Comandos do NuGet Utilizados
 
-* [Microsoft.AspNetCore.Http](https://learn.microsoft.com/pt-br/dotnet/core/whats-new/dotnet-core-2-2) - Foi utilizado esse framework multiplataforma de código aberto desenvolvido pela Microsoft para a criação e execução de aplicações modernas, como aplicações web, desktop, móveis e serviços.
+* [net8.0](https://learn.microsoft.com/pt-br/dotnet/core/whats-new/dotnet-8/overview) - 
 ```
-NuGet\Install-Package Microsoft.AspNetCore.Http -Version 2.2.0
+NuGet\Install-Package Microsoft.NET.Workload.Emscripten.net6.Manifest-8.0.100 -Version 8.0.0
 ```
-* [MediatR](https://medium.com/tableless/mediatr-com-asp-net-core-7b98ba0ca640) - Foi utilizado esse padrão de projeto para promove o baixo acoplamento entre os objetos e a aplicação, permitindo que se comuniquem sem conhecer suas estruturas.
+* [log4net]() - 
 ```
-NuGet\Install-Package MediatR -Version 7.0.0 
+NuGet\Install-Package log4net -Version 2.0.17
 ```
-* [AutoMapper](https://automapper.org/) - Foi utilizada essa biblioteca para o mapeamento de objetos entre as camadas.
+* [Microsoft.NET.Test.Sdk]() - 
 ```
-NuGet\Install-Package AutoMapper -Version 6.1.1
+NuGet\Install-Package Microsoft.NET.Test.Sdk -Version 17.10.0
 ```
-* [Microsoft.NET.Test.Sdk](https://automapper.org/) - Foi utilizado este pacote do NuGet do ecossistema .NET para fornecer o suporte necessário para executar testes unitários. Ele é uma parte fundamental do framework de testes para projetos que utilizam ferramentas como o xUnit, NUnit ou MSTest.
+* [NetArchTest.Rules]() -  
 ```
-NuGet\Install-Package Microsoft.NET.Test.Sdk -Version 16.0.1
+NuGet\Install-Package NetArchTest.Rules -Version 1.3.2
 ```
-* [FluentValidation](https://docs.fluentvalidation.net/en/latest/) - Foi utilizada essa biblioteca para facilitar a implementação de regras de validação para objetos (como modelos ou DTOs) de maneira limpa, consistente e fácil de manter, separando a lógica de validação da lógica da aplicação ou camada de apresentação.
+* [Xunit]() -  
 ```
-NuGet\Install-Package FluentValidation -Version 8.4.0
-```
-* [xunit](https://xunit.net/) - Foi utilizada essa ferramenta de teste de unidade gratuita, de código aberto e focada na comunidade para o .NET Framework.
-```
-NuGet\Install-Package xunit -Version 2.4.0
-```
-* [Microsoft.EntityFrameworkCore](https://learn.microsoft.com/pt-br/ef/core/get-started/overview/install) - Foi utilizado esse framework com objetivo facilitar o acesso e a manipulação de dados no banco de dados em aplicações .NET.
-```
-NuGet\Install-Package Microsoft.EntityFrameworkCore -Version 2.2.6
+NuGet\Install-Package xunit -Version 2.9.0
 ```
 ## 🚧 Descrição da Estrutura do Projeto
 
