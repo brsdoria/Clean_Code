@@ -14,7 +14,7 @@ NuGet\Install-Package Microsoft.AspNetCore.Http -Version 2.2.0
 ```
 * [MediatR](https://medium.com/tableless/mediatr-com-asp-net-core-7b98ba0ca640) - Foi utilizado esse padrão de projeto para promove o baixo acoplamento entre os objetos e a aplicação, permitindo que se comuniquem sem conhecer suas estruturas.
 ```
-NuGet\Install-Package MediatR -Version 7.0.0
+NuGet\Install-Package MediatR -Version 7.0.0 
 ```
 * [AutoMapper](https://automapper.org/) - Foi utilizada essa biblioteca para o mapeamento de objetos entre as camadas.
 ```
