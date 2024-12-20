@@ -20,7 +20,7 @@ NuGet\Install-Package log4net -Version 2.0.17
 ```
 NuGet\Install-Package Microsoft.NET.Test.Sdk -Version 17.10.0
 ```
-* [NetArchTest.Rules]() -  Foi utilizado com objetivo é fornecer de fornecer um conjunto de regras para facilitar a validação da arquitetura de software em projetos .NET
+* [NetArchTest.Rules]() -  Foi utilizado com objetivo de fornecer um conjunto de regras para facilitar a validação da arquitetura de software em projetos .NET
 ```
 NuGet\Install-Package NetArchTest.Rules -Version 1.3.2
 ```
