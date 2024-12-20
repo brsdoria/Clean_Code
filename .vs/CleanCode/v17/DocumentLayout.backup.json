@@ -1,12 +1,54 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\GITHUB\\CleanCode\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\GITHUB\\CleanCode\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ABB72CE6-B2F8-4190-87C8-0302C3330218}|CleanCode.csproj|c:\\users\\user\\desktop\\github\\cleancode\\11 - praticas avan\u00E7adas\\01 - design patterns.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABB72CE6-B2F8-4190-87C8-0302C3330218}|CleanCode.csproj|solutionrelative:11 - praticas avan\u00E7adas\\01 - design patterns.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABB72CE6-B2F8-4190-87C8-0302C3330218}|CleanCode.csproj|c:\\users\\user\\desktop\\github\\cleancode\\08 - emergencia e refinamento\\01 - praticasderefatoracao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABB72CE6-B2F8-4190-87C8-0302C3330218}|CleanCode.csproj|solutionrelative:08 - emergencia e refinamento\\01 - praticasderefatoracao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "01 - Design Patterns.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\GITHUB\\CleanCode\\11 - Praticas Avan\u00E7adas\\01 - Design Patterns.cs",
+              "RelativeDocumentMoniker": "11 - Praticas Avan\u00E7adas\\01 - Design Patterns.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\GITHUB\\CleanCode\\11 - Praticas Avan\u00E7adas\\01 - Design Patterns.cs",
+              "RelativeToolTip": "11 - Praticas Avan\u00E7adas\\01 - Design Patterns.cs",
+              "ViewState": "AgIAAIUAAAAAAAAAAAAIwJ4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T21:22:40.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "01 - PraticasDeRefatoracao.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\GITHUB\\CleanCode\\08 - Emergencia e Refinamento\\01 - PraticasDeRefatoracao.cs",
+              "RelativeDocumentMoniker": "08 - Emergencia e Refinamento\\01 - PraticasDeRefatoracao.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\GITHUB\\CleanCode\\08 - Emergencia e Refinamento\\01 - PraticasDeRefatoracao.cs",
+              "RelativeToolTip": "08 - Emergencia e Refinamento\\01 - PraticasDeRefatoracao.cs",
+              "ViewState": "AgIAANcAAAAAAAAAAAAswLUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T21:11:11.954Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
