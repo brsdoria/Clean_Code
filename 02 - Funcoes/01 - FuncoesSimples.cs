@@ -1,4 +1,4 @@
-﻿namespace CleanCode.M02_Funcoes_Simples;
+﻿namespace CleanCode.M02_Funcoes_Simples; 
 /******************************/
 /* Escrevendo Funções Simples */
 /******************************/

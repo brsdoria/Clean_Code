@@ -1,4 +1,4 @@
-﻿namespace CleanCode.M11_Praticas_Avancadas;
+﻿namespace CleanCode.M11_Praticas_Avancadas; 
 
 /***********************************/
 /*        Factory Method           */

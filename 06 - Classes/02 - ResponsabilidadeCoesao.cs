@@ -1,4 +1,4 @@
-﻿namespace CleanCode.M06_Classes;
+﻿namespace CleanCode.M06_Classes; 
 
 /*********************************/
 /*   Responsabilidade e Coesão   */

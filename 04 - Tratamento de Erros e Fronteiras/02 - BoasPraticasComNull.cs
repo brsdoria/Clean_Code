@@ -1,4 +1,4 @@
-﻿namespace CleanCode.M04_Tratamento_de_Erros_e_Fronteiras;
+﻿namespace CleanCode.M04_Tratamento_de_Erros_e_Fronteiras; 
 
 /*********************************/
 /*     Boas Práticas com Null    */

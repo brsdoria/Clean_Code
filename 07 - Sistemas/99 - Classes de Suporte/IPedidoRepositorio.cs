@@ -1,4 +1,4 @@
-﻿namespace MeuProjeto.Dominio;
+﻿namespace MeuProjeto.Dominio; 
 
 public interface IPedidoRepositorio
 {

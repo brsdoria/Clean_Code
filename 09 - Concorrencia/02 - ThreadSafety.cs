@@ -1,6 +1,6 @@
 ﻿using System.Collections.Concurrent;
 
-namespace CleanCode.M09_Concorrencia;
+namespace CleanCode.M09_Concorrencia; 
 
 /*********************************/
 /*        Thread Safety          */

@@ -1,6 +1,6 @@
 ﻿using MeuProjeto.Dominio;
 
-namespace MeuProjeto.Aplicacao;
+namespace MeuProjeto.Aplicacao; 
 
 public class PedidoServico
 {

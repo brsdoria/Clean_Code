@@ -1,5 +1,5 @@
 ﻿using log4net;
-namespace CleanCode.M04_Tratamento_de_Erros_e_Fronteiras;
+namespace CleanCode.M04_Tratamento_de_Erros_e_Fronteiras; 
 
 /****************************************/
 /*  Integração com Código de Terceiros  */

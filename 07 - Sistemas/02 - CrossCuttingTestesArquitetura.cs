@@ -3,7 +3,7 @@ using MeuProjeto.Infraestrutura;
 using NetArchTest.Rules;
 using Xunit;
 
-namespace CleanCode.M07_Sistemas;
+namespace CleanCode.M07_Sistemas; 
 
 /*****************************************************/
 /* Preocupações Transversais e Testes de Arquitetura */

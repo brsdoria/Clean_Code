@@ -1,4 +1,4 @@
-﻿namespace CleanCode.M10_Smells_and_Heuristics;
+﻿namespace CleanCode.M10_Smells_and_Heuristics; 
 
 /***********************************/
 /*    Exemplos de Dispensables     */

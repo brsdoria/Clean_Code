@@ -1,4 +1,4 @@
-﻿namespace CleanCode.M03_Principios_De_Formatacao;
+﻿namespace CleanCode.M03_Principios_De_Formatacao; 
 
 /*********************************/
 /*  Abstração e Encapsulamento   */

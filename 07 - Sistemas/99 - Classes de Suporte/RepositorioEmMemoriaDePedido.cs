@@ -1,6 +1,6 @@
 ﻿using MeuProjeto.Dominio;
 
-namespace MeuProjeto.Infraestrutura;
+namespace MeuProjeto.Infraestrutura; 
 
 public class RepositorioEmMemoriaDePedido : IPedidoRepositorio
 {

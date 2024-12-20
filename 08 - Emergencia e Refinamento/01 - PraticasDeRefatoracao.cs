@@ -4,7 +4,7 @@
 
 #region Versão Inicial
 
-namespace CleanCode.M08_Emergencia_E_Refinamento_Refactor_1
+namespace CleanCode.M08_Emergencia_E_Refinamento_Refactor_1 
 {
     public class DataUtils
     {

@@ -1,4 +1,4 @@
-﻿namespace MeuProjeto.Dominio;
+﻿namespace MeuProjeto.Dominio; 
 
 public class Pedido
 {
