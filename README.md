@@ -4,7 +4,7 @@ Boas práticas na escrita de software que você pode aplicar para obter uma maio
 
 ## 🛠️ Construído com 
 
-* [Visual Studio 2022](https://learn.microsoft.com/pt-br/visualstudio/windows/?view=vs-2022) - Foi utilizado o Visual Studio como ferramenta de desenvolvimento, que permite realizar todo o ciclo de desenvolvimento em um só lugar.
+* [Visual Studio 2022](https://learn.microsoft.com/pt-br/visualstudio/windows/?view=vs-2022) - Ferramenta de desenvolvimento, que permite realizar todo o ciclo de desenvolvimento em um só lugar.
 
 ## 📚 Principais Bibliotecas, Frameworks e Comandos do NuGet Utilizados
 
