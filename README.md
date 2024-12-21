@@ -10,7 +10,7 @@ Boas práticas na escrita de software que você pode aplicar para obter uma maio
 
 * [net8.0](https://learn.microsoft.com/pt-br/dotnet/core/whats-new/dotnet-8/overview) - Versão da plataforma de desenvolvimento .NET, que é de código aberto e multiplataforma, desenvolvida pela Microsoft.
 ```
-NuGet\Install-Package Microsoft.NET.Workload.Emscripten.net6.Manifest-8.0.100 -Version 8.0.0
+
 ```
 * [log4net]() - Solução robusta e flexível para registrar logs em aplicações .NET
 ```
