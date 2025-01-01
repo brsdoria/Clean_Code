@@ -2,7 +2,9 @@
 
 ## 📝️ Escopo do Projeto
 
-Boas práticas na escrita de software que você pode aplicar para obter uma maior legibilidade e manutenabilidade do seu código.
+<p align="justify"> 
+O projeto demonstra algumas boas práticas na escrita de software que você pode aplicar para obter uma maior legibilidade e manutenabilidade do seu código.
+</p>
 
 ## 🛠️ Construído com 
 
