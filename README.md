@@ -24,7 +24,7 @@ NuGet\Install-Package Microsoft.NET.Test.Sdk -Version 17.10.0
 ```
 NuGet\Install-Package NetArchTest.Rules -Version 1.3.2 
 ```
-* [Xunit]() - Framework de testes unitários para aplicações .NET
+* [Xunit](https://xunit.net/) - Framework de testes unitários para aplicações .NET
 ```
 NuGet\Install-Package xunit -Version 2.9.0
 ```
