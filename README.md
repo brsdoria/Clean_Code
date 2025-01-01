@@ -1,5 +1,7 @@
 # Clean Code 
 
+## 📝️ Escopo do Projeto
+
 Boas práticas na escrita de software que você pode aplicar para obter uma maior legibilidade e manutenabilidade do seu código.
 
 ## 🛠️ Construído com 
