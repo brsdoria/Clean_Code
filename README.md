@@ -16,7 +16,7 @@ dotnet add package Microsoft.NET.Sdk.Web --version 8.0.0
 ```
 NuGet\Install-Package log4net -Version 2.0.17
 ```
-* [Microsoft.NET.Test.Sdk]() - Suporte necessário para executar testes automatizados em projetos .NET.
+* [Microsoft.NET.Test.Sdk](https://learn.microsoft.com/pt-br/dotnet/core/tools/dotnet-test) - Fornece o suporte necessário para executar testes unitários. Ele é uma parte fundamental do framework de testes para projetos que utilizam ferramentas como o xUnit, NUnit ou MSTest.
 ```
 NuGet\Install-Package Microsoft.NET.Test.Sdk -Version 17.10.0
 ```
@@ -24,7 +24,7 @@ NuGet\Install-Package Microsoft.NET.Test.Sdk -Version 17.10.0
 ```
 NuGet\Install-Package NetArchTest.Rules -Version 1.3.2 
 ```
-* [Xunit](https://xunit.net/) - Framework de testes unitários para aplicações .NET
+* [xunit](https://xunit.net/) - Framework de testes unitários para aplicações .NET
 ```
 NuGet\Install-Package xunit -Version 2.9.0
 ```
